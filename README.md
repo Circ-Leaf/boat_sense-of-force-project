@@ -6,10 +6,10 @@
 
 ## Software
 
-
+<img src="software.png" width=60%>
 
 ## Hardware
 
-<img src="hardware.gif" width=60%>
+<img src="hardware.png" width=60%>
 
 
