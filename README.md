@@ -10,4 +10,5 @@
 
 ## Hardware
 
+https://github.com/Eighzh/boat_sense-of-force-project/assets/86867208/6820331c-6bc1-4fd6-b10f-b2269909a8d9
 
